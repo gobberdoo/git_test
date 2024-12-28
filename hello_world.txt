@@ -1,1 +1,2 @@
-add some text to it and stuff
+//add some text to it and stuff
+//testing for commit messages config
